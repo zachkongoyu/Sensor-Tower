@@ -1,0 +1,89 @@
+﻿
+Futu, https://sensortower.com/android/US/fu-tu-wang-luo-ke-ji-you-xian-gong-si/app/futubull-us-hk-stocks-quotes-and-trading-app/cn.futu.trader/overview
+HTHT, https://sensortower.com/android/US/hua-zhu-jiu-dian/app/hua-zhu-hui/com.htinns/overview
+IBKR, https://sensortower.com/android/US/interactive-brokers-group/app/ibkr-mobile/atws.app/overview
+
+moomoo, https://sensortower.com/android/US/moomoo-inc/app/moomoo-trade-stock-option-etf-adr/com.moomoo.trade/overview
+
+Robinhood, https://sensortower.com/android/US/robinhood/app/robinhood-investment-trading-commission-free/com.robinhood.android/overview
+
+Zepp, https://sensortower.com/android/US/huami-inc/app/zepp/com.huami.watch.hmwatchmanager/overview
+
+Mi Health, https://sensortower.com/android/US/anhui-huami-information-technology-co-ltd/app/mi-fit/com.xiaomi.hm.health/overview
+
+ZOOM, https://sensortower.com/android/US/zoom-us/app/zoom-cloud-meetings/us.zoom.videomeetings/overview
+
+TikTok, https://sensortower.com/android/US/tiktok-pte-ltd/app/tiktok/com.zhiliaoapp.musically/overview
+
+Kuaishou, https://sensortower.com/android/US/kwai-tech/app/kuai-shou-duan-shi-pin-guo-min-duan-shi-pin-ping-tai/com.smile.gifmaker/overview
+
+Kwai, https://sensortower.com/android/BR/publisher/app/appName/com.kwai.video/overview
+
+AliExpress, https://sensortower.com/android/US/alibaba-mobile/app/aliexpress/com.alibaba.aliexpresshd/overview
+
+Lazada, https://sensortower.com/android/US/lazada-mobile/app/lazada-online-shopping-app/com.lazada.android/overview
+
+SHEIN, https://sensortower.com/android/US/zoetop-business-co-limited/app/shein-fashion-shopping-online/com.zzkko/overview
+
+eBay, https://sensortower.com/android/US/ebay-mobile/app/ebay-buy-sell-and-save-on-brands-you-love/com.ebay.mobile/overview
+
+Shopify, https://sensortower.com/android/US/shopify-inc/app/shopify-your-ecommerce-store/com.shopify.mobile/overview
+
+DiDi, https://sensortower.com/android/US/didi-global/app/didi-rider/com.didiglobal.passenger/overview
+
+Uber, https://sensortower.com/android/US/uber-technologies-inc/app/uber-request-a-ride/com.ubercab/overview
+
+
+Taobao, https://sensortower.com/android/US/taobao/app/shou-ji-tao-bao/com.taobao.taobao/overview
+
+
+JD, https://sensortower.com/android/US/jing-dong/app/jing-dong-bu-fu-mei-fen-re-ai/com.jingdong.app.mall/overview
+
+PDD, https://sensortower.com/android/US/shang-hai-xun-meng-xin-xi-ji-zhu-you-xian-gong-si/app/pin-duo-duo/com.xunmeng.pinduoduo/overview
+
+
+Meituan Delivery, https://sensortower.com/android/US/meituan-com/app/mei-tuan-wai-mai/com.sankuai.meituan.takeoutnew/overview
+
+Alipay, https://sensortower.com/android/US/alipay-hangzhou-technology-co-ltd/app/alipay/com.eg.android.AlipayGphone/overview
+
+
+Wechat, https://sensortower.com/android/US/wechat/app/wechat/com.tencent.mm/overview
+
+Amazon, https://sensortower.com/android/US/amazon-mobile-llc/app/amazon-shopping-search-find-ship-and-save/com.amazon.mShop.android.shopping/overview
+
+Mi Home, https://sensortower.com/android/US/xiaomi-inc/app/mi-home/com.xiaomi.smarthome/overview
+
+Qunar, https://sensortower.com/android/US/qunar-com/app/qu-na-er-lu-xing-ji-piao-jiu-dian-huo-che-piao-qi-che-piao-lu-you-men-piao/com.Qunar/overview
+
+Ctrip, https://sensortower.com/android/US/xi-cheng-lu-xing-wang/app/xi-cheng-lu-xing/ctrip.android.view/overview
+
+
+Wecom, https://sensortower.com/android/US/tencent-technology-shenzhen-company-ltd/app/wecom/com.tencent.wework/overview
+
+Baidu, https://sensortower.com/android/US/mobile-cloud-finance/app/bai-du/com.baidu.searchbox/overview
+
+Binance, https://sensortower.com/android/US/binance-inc/app/binance-bitcoin-marketplace-crypto-wallet/com.binance.dev/overview
+
+Coinbase, https://sensortower.com/android/US/coinbase-android/app/coinbase-buy-trade-bitcoin-ethereum-more/com.coinbase.android/overview
+
+Huobi, https://sensortower.com/android/US/huobi-pro/app/huobi-global/pro.huobi/overview
+
+OKEx, https://sensortower.com/android/US/okex-malta-ltd/app/okex-bitcoin-crypto-trading-platform/com.okinc.okex.gp/overview
+
+YouTube, https://sensortower.com/android/US/google-llc/app/youtube/com.google.android.youtube/overview
+
+Garena Free Fire, https://sensortower.com/android/US/garena-international-i-private-limited/app/garena-free-fire-rampage/com.dts.freefireth/overview
+
+Yalla, https://sensortower.com/android/US/yalla-technology-fz-llc/app/yalla-free-voice-chat-rooms/com.weieyu.yalla/overview
+
+Yalla Ludo, https://sensortower.com/android/US/aviva-sun/app/yalla-ludo-ludo-domino/com.yalla.yallagames/overview
+
+PUBG MOBILE, https://sensortower.com/android/US/proxima-beta/app/pubg-mobile-traverse/com.tencent.ig/overview
+
+Rise of Kingdoms, https://sensortower.com/android/US/lilithgames/app/rise-of-kingdoms-lost-crusade/com.lilithgame.roc.gp/overview
+
+Candy Crush Saga, https://sensortower.com/android/US/king/app/candy-crush-saga/com.king.candycrushsaga/overview
+
+Clash of Clans, https://sensortower.com/android/US/supercell/app/clash-of-clans/com.supercell.clashofclans/overview
+
+Clash Royale, https://sensortower.com/android/US/supercell/app/clash-royale/com.supercell.clashroyale/overview
